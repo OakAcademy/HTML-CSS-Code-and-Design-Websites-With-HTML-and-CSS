@@ -1,0 +1,28 @@
+body{
+  border:15px green solid;
+  font-family: Arial;
+  font-size: 17px;
+}
+
+h1{
+  color: red;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+a{
+  color:blue;
+  font-weight: bold;
+}
+
+.p2{
+  text-decoration: underline;
+}
+
+img{
+  float:left;
+}
+
+.out{
+  margin: 20px;
+}

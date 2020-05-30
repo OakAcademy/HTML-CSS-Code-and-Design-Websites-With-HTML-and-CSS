@@ -1,0 +1,26 @@
+.container{
+  border:1px solid blue;
+  padding:10px;
+  display: grid;
+  /* grid-template-columns: 100px 200px 300px;
+  grid-template-rows: 100px 200px 300px; */
+  grid-template: 1fr/repeat(auto-fit,minmax(200px,1fr));
+  height: 700px;
+  grid-gap: 10px;
+
+  /* align-content: start/end/center/space-between/space-around/space-evenly;
+
+  align-content: space-evenly; */
+/*
+  justify-content: start/end/center/space-between/space-around/space-evenly;
+
+  justify-content:  space-evenly; */
+
+
+}
+
+.box{
+  background-color:orange;
+  border:1px solid blue;
+
+}

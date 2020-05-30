@@ -1,0 +1,21 @@
+
+
+
+
+  .container{
+    width: 850px;
+    border:3px solid blue;
+    margin: auto;
+
+  }
+
+  h1{
+    text-align: center;
+  }
+
+  .box{
+    width: 250px;
+    height: 250px;
+    background-color: red;
+    
+  }
